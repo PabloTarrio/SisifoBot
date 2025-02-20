@@ -1,0 +1,12 @@
+Arduino Nano
+Motores Pololu N20
+Driver motores TB6612FNG
+Sensores linea IR:
+                  - Módulo
+                  - CNY70 301
+Batería Lipo 350mAh
+Módulo BT
+
+Interruptor arranque
+Chasis impreso PLA
+Resistencias/Leds...                  
