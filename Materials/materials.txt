@@ -1,12 +1,27 @@
+###---LINE FOLLOWING---###
 Arduino Nano
 Motores Pololu N20
 Driver motores TB6612FNG
 Sensores linea IR:
                   - Módulo
                   - CNY70 301
+
 Batería Lipo 350mAh
 Módulo BT
 
 Interruptor arranque
 Chasis impreso PLA
 Resistencias/Leds...                  
+
+###---MICROMOUSE MAZE SOLVING---###
+Arduino Nano
+Motores Pololu N20
+Driver motores TB6612FNG
+Batería Lipo 350mAh
+
+Micromouse IR sensor 
+      https://www.instructables.com/Micromousemobile-robot-IR-distance-sensor-board-ti/
+
+      es.farnell.com
+      L-53F3C Emisor de Infrarrojos, 940 nm, 20 °, T-1 3/4 (5mm), 30 mW/Sr [20 x 0,232 €]
+      L-93DP3C Fototransistor, 940 nm, 100 mW, 2 Pines, T-1 (3mm), 3mm Phototransistor[20 x 0,299 €]
